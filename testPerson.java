@@ -3,7 +3,7 @@
 //advanced java
 //testPerson program that exercises every behavior in Person, RegisteredPerson, and OCCCPerson classes
 import java.util.Scanner;
-public class testPerson {
+public class testPerson{
 
 	public static void main(String[] args) {
 		//test parent class
